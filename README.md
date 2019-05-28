@@ -24,3 +24,12 @@
 
 ![Image alt](https://github.com/masik93/KR/blob/master/image/name5.png?raw=true)
 
+## 5. Диаграмма компонентов 
+
+![Image alt](https://github.com/masik93/KR/blob/master/image/name6.png?raw=true)
+
+## 6. Диаграмма развертывания
+
+![Image alt](https://github.com/masik93/KR/blob/master/image/name7.png?raw=true)
+
+
